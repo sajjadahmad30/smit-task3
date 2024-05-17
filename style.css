@@ -46,7 +46,9 @@ button ul li:hover {
     border: 1px solid;
     border-radius: 8px;
     background-color: rgb(253, 253, 253);
+    
 }
+
 
 .image {
     width: 50%;
